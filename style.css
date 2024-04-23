@@ -358,6 +358,7 @@ menu ul li a:hover{
 .choose-us-details{
     width: 463px;
     padding-top: 100px;
+    text-align: justify;
 }
 
 .choose-us-txt .choose-us-heading .choose-us-details p{
@@ -579,6 +580,7 @@ menu ul li a:hover{
     font-size: 16px;
     line-height: 30px;
     color: #ffffff;
+    text-align: justify;
 }
 .testimonial-user{
     display: flex;
